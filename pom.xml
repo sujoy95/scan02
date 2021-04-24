@@ -435,7 +435,7 @@
 		<dependency>
     		<groupId>com.amazonaws</groupId>
     		<artifactId>aws-java-sdk</artifactId>
-    		<version>1.11.893</version>
+    		<version>1.11.1004</version>
 		</dependency>
 
 	<!-- For email service -->
